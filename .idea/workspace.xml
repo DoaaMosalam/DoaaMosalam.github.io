@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="591cb217-8043-4e23-a434-407e96cdd6fe" name="Default Changelist" comment="My portfolio" />
+    <list default="true" id="591cb217-8043-4e23-a434-407e96cdd6fe" name="Default Changelist" comment="My portfolio">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +37,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1713078568258</updated>
-      <workItem from="1713078572807" duration="3750000" />
+      <workItem from="1713078572807" duration="4312000" />
     </task>
     <task id="LOCAL؜٠٠٠٠١" summary="My portfolio">
       <created>1713078708082</created>
@@ -61,7 +63,13 @@
       <option name="presentableId" value="LOCAL؜٠٠٠٠٤" />
       <updated>1713081630801</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL؜٠٠٠٠٥" summary="My portfolio">
+      <created>1713087625691</created>
+      <option name="number" value="LOCAL؜٠٠٠٠٥" />
+      <option name="presentableId" value="LOCAL؜٠٠٠٠٥" />
+      <updated>1713087625691</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
