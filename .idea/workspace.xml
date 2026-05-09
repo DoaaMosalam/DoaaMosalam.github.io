@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="591cb217-8043-4e23-a434-407e96cdd6fe" name="Default Changelist" comment="My portfolio">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume.html" afterDir="false" />
-    </list>
+    <list default="true" id="591cb217-8043-4e23-a434-407e96cdd6fe" name="Default Changelist" comment="Last update my portfolio" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -132,7 +128,23 @@
       <option name="project" value="LOCAL" />
       <updated>1778320833651</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Last update my portfolio">
+      <option name="closed" value="true" />
+      <created>1778323002183</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1778323002183</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Last update my portfolio">
+      <option name="closed" value="true" />
+      <created>1778323208127</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1778323208127</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,7 +164,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="My portfolio" />
-    <option name="LAST_COMMIT_MESSAGE" value="My portfolio" />
+    <MESSAGE value="Last update my portfolio" />
+    <option name="LAST_COMMIT_MESSAGE" value="Last update my portfolio" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
